@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "C consult",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -36,7 +36,9 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 17,
-    "versionPublish": "4.8.3"
+    "versionPublish": "4.8.3",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-image-128x143.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
